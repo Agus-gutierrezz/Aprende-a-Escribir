@@ -1,6 +1,6 @@
  # <center> Informe de APP </center>
  
-  ![alt text](0d1d187b-5bf5-440e-87b3-b6a8bce7407f-Photoroom.png)
+  ![logo](Imagen/logo.png)
 ## PROPOSITO/OBJETIVO
 El proposito de nuestra aplicación es poder brindar una herramienta de apoyo psicopedagogíco en la etapa de nivel incial de lectoescritura, mediante  la técnica del puntillismo (unir puntos para formar letras y trazos). Nuestro objetivo es poder llegar a ser de mucha ayuda tanto a docentes como estudiantes.
 ## Objetivos:
